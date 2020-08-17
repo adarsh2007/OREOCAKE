@@ -24,6 +24,8 @@
   
  12. after removing the cake out  of the oven,add the  chocochip on to the cake 
  and enjoy your marvulously delicious cake!
+ 
+ ![](https://github.com/adarsh2007/OREOCAKE/blob/master/oreocake.jpg)
 
 
 
